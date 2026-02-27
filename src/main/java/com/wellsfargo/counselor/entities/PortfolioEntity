@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+package com.wellsfargo.counselor.entities;
 
 import javax.persistence.*;
 import java.util.List;
